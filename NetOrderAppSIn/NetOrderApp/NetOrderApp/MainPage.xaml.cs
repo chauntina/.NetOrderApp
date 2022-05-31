@@ -15,9 +15,9 @@ namespace NetOrderApp
             InitializeComponent();
         }
 
-        private void OrderButton_Clicked(object sender, EventArgs e)
+        private async void OrderButton_Clicked(object sender, EventArgs e)
         {
-         Navigation.PushAsync(new OrderPage());
+         await Navigation.PushAsync(new OrderPage());
         }
 
       
