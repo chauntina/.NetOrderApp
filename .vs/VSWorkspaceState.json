@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NetOrderAppSIn",
+    "\\NetOrderAppSIn\\NetOrderApp",
+    "\\NetOrderAppSIn\\NetOrderApp\\NetOrderApp"
   ],
+  "SelectedNode": "\\NetOrderAppSIn\\NetOrderApp\\NetOrderApp\\MainPage.xaml.cs",
   "PreviewInSolutionExplorer": false
 }
